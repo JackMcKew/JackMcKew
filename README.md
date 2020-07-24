@@ -8,6 +8,11 @@ I write a weekly blog on technology, programming and more over at <https://jackm
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Street Suffix Analysis & Colouring with Python](https://jackmckew.dev/street-suffix-analysis-colouring-with-python.html)
+- [Sentiment Analysis & Text Cleaning in Python with Vader](https://jackmckew.dev/sentiment-analysis-text-cleaning-in-python-with-vader.html)
+- [Profitable Python Podcast - Show Notes](https://jackmckew.dev/profitable-python-podcast-show-notes.html)
+- [Interactive Random Walkers with Javascript](https://jackmckew.dev/interactive-random-walkers-with-javascript.html)
+- [How Pandas_Alive was Made](https://jackmckew.dev/how-pandas_alive-was-made.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### You can also find me on

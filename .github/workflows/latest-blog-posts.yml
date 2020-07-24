@@ -1,5 +1,8 @@
 name: Latest blog post workflow
-on: push
+on:
+  schedule:
+    # Run weekly on Friday
+    - cron: '0 0 * * FRI'
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts

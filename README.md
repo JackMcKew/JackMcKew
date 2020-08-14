@@ -8,11 +8,11 @@ I write a weekly blog on technology, programming and more over at <https://jackm
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Book Review: The Pragmatic Programmer](https://jackmckew.dev/book-review-the-pragmatic-programmer.html)
 - [Dataclasses vs Attrs vs Pydantic](https://jackmckew.dev/dataclasses-vs-attrs-vs-pydantic.html)
 - [Generators in Python](https://jackmckew.dev/generators-in-python.html)
 - [Street Suffix Analysis & Colouring with Python](https://jackmckew.dev/street-suffix-analysis-colouring-with-python.html)
 - [Sentiment Analysis & Text Cleaning in Python with Vader](https://jackmckew.dev/sentiment-analysis-text-cleaning-in-python-with-vader.html)
-- [Profitable Python Podcast - Show Notes](https://jackmckew.dev/profitable-python-podcast-show-notes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### You can also find me on

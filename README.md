@@ -8,11 +8,11 @@ I write a weekly blog on technology, programming and more over at <https://jackm
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gaining Access with Kali Linux](https://jackmckew.dev/gaining-access-with-kali-linux.html)
 - [Network Hacking with Kali Linux](https://jackmckew.dev/network-hacking-with-kali-linux.html)
 - [Types of Averages (Means)](https://jackmckew.dev/types-of-averages-means.html)
 - [Book Review: The Pragmatic Programmer](https://jackmckew.dev/book-review-the-pragmatic-programmer.html)
 - [Dataclasses vs Attrs vs Pydantic](https://jackmckew.dev/dataclasses-vs-attrs-vs-pydantic.html)
-- [Generators in Python](https://jackmckew.dev/generators-in-python.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### You can also find me on

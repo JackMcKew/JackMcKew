@@ -8,11 +8,11 @@ I write a weekly blog on technology, programming and more over at <https://jackm
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [API Routes in Node.js](https://jackmckew.dev/api-routes-in-nodejs.html)
 - [Actions and Reducers in React-Redux](https://jackmckew.dev/actions-and-reducers-in-react-redux.html)
 - [Components in React.js](https://jackmckew.dev/components-in-reactjs.html)
 - [Web Penetration Testing with Kali Linux](https://jackmckew.dev/web-penetration-testing-with-kali-linux.html)
 - [Gaining Access with Kali Linux](https://jackmckew.dev/gaining-access-with-kali-linux.html)
-- [Network Hacking with Kali Linux](https://jackmckew.dev/network-hacking-with-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### You can also find me on

@@ -8,11 +8,11 @@ I write a weekly blog on technology, programming and more over at <https://jackm
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Develop and Deploy with Docker](https://jackmckew.dev/develop-and-deploy-with-docker.html)
 - [Intro to Docker](https://jackmckew.dev/intro-to-docker.html)
 - [Property Based Testing in Python](https://jackmckew.dev/property-based-testing-in-python.html)
 - [Shallow vs Deep Copy in Python](https://jackmckew.dev/shallow-vs-deep-copy-in-python.html)
 - [API Routes in Node.js](https://jackmckew.dev/api-routes-in-nodejs.html)
-- [Actions and Reducers in React-Redux](https://jackmckew.dev/actions-and-reducers-in-react-redux.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### You can also find me on

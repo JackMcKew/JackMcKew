@@ -8,11 +8,11 @@ I write a weekly blog on technology, programming and more over at <https://jackm
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Releasing Cordova Apps on Google Play & App Store](https://jackmckew.dev/releasing-cordova-apps-on-google-play-app-store.html)
 - [Deploy a Node Web App to AWS Elastic Beanstalk with Docker](https://jackmckew.dev/deploy-a-node-web-app-to-aws-elastic-beanstalk-with-docker.html)
 - [Deploying with Kubernetes](https://jackmckew.dev/deploying-with-kubernetes.html)
 - [Developing with Kubernetes](https://jackmckew.dev/developing-with-kubernetes.html)
 - [Intro to Kubernetes](https://jackmckew.dev/intro-to-kubernetes.html)
-- [Develop and Deploy Multi-Container Applications](https://jackmckew.dev/develop-and-deploy-multi-container-applications.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### You can also find me on
